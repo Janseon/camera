@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\camera_control.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\layout-land\\camera_control.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\video_camera.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\layout-land\\video_camera.xml"
+    }
+]

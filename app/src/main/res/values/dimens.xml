@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="title_bar_height">43dip</dimen>
+    <dimen name="title_dialog_height">50dip</dimen>
+    <dimen name="tab_widget_height">55.0dip</dimen>
+    <dimen name="header_height">30dip</dimen>
+
+    <!--  -->
+    <dimen name="progress_size">20dip</dimen>
+    <dimen name="stroke_width">1.2dip</dimen>
+    <dimen name="corner_radius">8dip</dimen>
+
+</resources>

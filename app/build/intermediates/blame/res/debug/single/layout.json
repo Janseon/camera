@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\layout\\movie_view.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\layout\\movie_view.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_camera.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\layout\\video_camera.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_control.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\layout\\camera_control.xml"
+    }
+]

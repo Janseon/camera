@@ -1,0 +1,3 @@
+D:\android\AndroidStudioProjects\camera\app\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\camera\VideoPlayActivity.class
+D:\android\AndroidStudioProjects\camera\app\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\android\camera\MovieView.class
+D:\android\AndroidStudioProjects\camera\app\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\android\camera\VideoRecorder.class

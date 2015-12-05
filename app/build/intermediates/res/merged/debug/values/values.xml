@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_camera_picturesize_entryvalues" translatable="false">
+        <item>2592x1944</item>
+        <item>2592x1936</item>
+        <item>2048x1536</item>
+        <item>1600x1200</item>
+        <item>1024x768</item>
+        <item>320x240</item>
+    </string-array>
+    <color name="alert_brown">#ff5a3522</color>
+    <color name="bg_blue">#550fafff</color>
+    <color name="bg_lable_yellow">#fffaea</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff0060df</color>
+    <color name="brown">#bb5010</color>
+    <color name="dark_pink">#ffeb5b84</color>
+    <color name="dark_red">#BB0000</color>
+    <color name="gray_light">#ffa8abad</color>
+    <color name="green1">#99FF99</color>
+    <color name="green2">#009900</color>
+    <color name="loading_blue">#ff33ccff</color>
+    <color name="orange">#ffff740f</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="recording_time_elapsed_text">#FFFFFFFF</color>
+    <color name="recording_time_remaining_text">#FFFF0033</color>
+    <color name="red">#FF2222</color>
+    <color name="result_view">#b0000000</color>
+    <color name="transparent_darkblack">#e0000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffe87215</color>
+    <dimen name="corner_radius">8dip</dimen>
+    <dimen name="header_height">30dip</dimen>
+    <dimen name="progress_size">20dip</dimen>
+    <dimen name="stroke_width">1.2dip</dimen>
+    <dimen name="tab_widget_height">55.0dip</dimen>
+    <dimen name="title_bar_height">43dip</dimen>
+    <dimen name="title_dialog_height">50dip</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <string name="app_name">CameraDemo</string>
+    <string name="camera_error_title">Camera error</string>
+    <string name="cannot_connect_camera">Cannot connect to camera.</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="details_ok">OK</string>
+    <string name="hello">Hello World, MicDemoActivity!</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="load_click_more_text">点击加载更多</string>
+    <string name="load_ed_text">加载成功</string>
+    <string name="load_error_text">加载失败</string>
+    <string name="load_ing_text">加载中...</string>
+    <string name="load_release_text">松开加载更多...</string>
+    <string name="load_up_text">上拉加载更多...</string>
+    <string name="loading_video">Loading video\u2026</string>
+    <string name="more_text">更多</string>
+    <string name="movie_view_label">Movies</string>
+    <string name="pref_camera_coloreffect_default" translatable="false">none</string>
+    <string name="pref_camera_flashmode_default" translatable="false">auto</string>
+    <string name="pref_camera_flashmode_no_flash" translatable="false">no_flash</string>
+    <string name="pref_camera_focusmode_default" translatable="false">auto</string>
+    <string name="pref_camera_jpegquality_default" translatable="false">superfine</string>
+    <string name="pref_camera_quickcapture_default" translatable="false">off</string>
+    <string name="pref_camera_scenemode_default" translatable="false">auto</string>
+    <string name="pref_camera_video_flashmode_default" translatable="false">off</string>
+    <string name="pref_camera_whitebalance_default" translatable="false">auto</string>
+    <string name="pref_exposure_default" translatable="false">0</string>
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中...</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_tap_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_update">最近更新：</string>
+    <string name="refresh_down_text">下拉可以刷新...</string>
+    <string name="refresh_ed_text">正在获取最新数据…</string>
+    <string name="refresh_error_text">刷新失败</string>
+    <string name="refresh_ing_text">正在获取最新数据…</string>
+    <string name="refresh_release_text">松开可以刷新...</string>
+    <string name="resume_playing_message">Resume playing from %s ?</string>
+    <string name="resume_playing_restart">Start over</string>
+    <string name="resume_playing_resume">Resume playing</string>
+    <string name="resume_playing_title">Resume video</string>
+    <string name="review_cancel">CANCEL</string>
+    <string name="review_ok">OK</string>
+    <string name="review_play">PLAY</string>
+    <string name="review_retake">RETAKE</string>
+    <string name="switch_to_camera_lable">Switch to camera</string>
+    <string name="switch_to_video_lable">Switch to video</string>
+    <string name="titles_load_error">加载失败，点击重新加载</string>
+    <string name="video_file_name_format" translatable="false">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_reach_duration_limit">已停止录像：已达到视频的时间限制</string>
+    <string name="video_reach_size_limit">video record reaches size limit</string>
+    <string name="wait">Please wait\u2026</string>
+    <style name="app_camera_theme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="app_no_title_theme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

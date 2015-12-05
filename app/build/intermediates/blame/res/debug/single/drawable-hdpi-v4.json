@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_switch_off.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\bg_switch_off.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_shutter_pressed.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\btn_shutter_pressed.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recording_indicator.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\ic_recording_indicator.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ic_video_record.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\btn_ic_video_record.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_switch_on.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\bg_switch_on.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_gif_009.gif",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\face_gif_009.gif"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_arrow_down.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\refresh_arrow_down.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_circle.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\icon_circle.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_camera_pattern.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\bg_camera_pattern.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tip_tick.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\icon_tip_tick.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_camera_video_view.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_camera_video_view.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ic_video_record_stop.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\btn_ic_video_record_stop.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_shutter_normal.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\btn_shutter_normal.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tip_alert.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\icon_tip_alert.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_img_loading.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\bg_img_loading.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ic_mode_switch_video.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\btn_ic_mode_switch_video.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_success.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\icon_success.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_arrow_up.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\refresh_arrow_up.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\border_view_finder.9.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\border_view_finder.9.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_unread.png",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable-hdpi\\icon_unread.png"
+    }
+]

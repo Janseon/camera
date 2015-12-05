@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MicDemoActivity!</string>
+    <string name="app_name">CameraDemo</string>
+    <!-- alert to the user to wait for some operation to complete -->
+    <string name="wait">Please wait\u2026</string>
+    <!-- Video Camera format string for new video files. Passed to java.text.SimpleDateFormat. -->
+    <string name="video_file_name_format" translatable="false">"'VID'_yyyyMMdd_HHmmss"</string>
+    <!-- title for the dialog showing the error of camera hardware -->
+    <string name="camera_error_title">Camera error</string>
+
+    <!-- message for the dialog showing the error of camera hardware -->
+    <string name="cannot_connect_camera">Cannot connect to camera.</string>
+
+    <!-- button in review mode indicating that the video just taken should be played -->
+    <string name="review_play">PLAY</string>
+
+    <!-- button in review mode indicating that the video recording session should be canceled -->
+    <string name="review_cancel">CANCEL</string>
+
+    <!-- button in review mode indicating that the taken video is OK to be attached/uploaded -->
+    <string name="review_ok">OK</string>
+
+    <!-- button in review mode indicate the user want to retake another picture for attachment -->
+    <string name="review_retake">RETAKE</string>
+
+    <!-- The messsage shown when video record reaches size limit. -->
+    <string name="video_reach_duration_limit">已停止录像：已达到视频的时间限制</string>
+    <string name="video_reach_size_limit">video record reaches size limit</string>
+
+    <!-- Default videocamera flash mode setting. -->
+    <string name="pref_camera_video_flashmode_default" translatable="false">off</string>
+
+    <!-- Value for flash off setting -->
+    <string name="pref_camera_flashmode_no_flash" translatable="false">no_flash</string>
+    <!-- Default white balance setting. -->
+    <string name="pref_camera_whitebalance_default" translatable="false">auto</string>
+    <!-- Default color effect setting. -->
+    <string name="pref_camera_coloreffect_default" translatable="false">none</string>
+    <string name="details_ok">OK</string>
+    <string name="switch_to_camera_lable">Switch to camera</string>
+    <string name="switch_to_video_lable">Switch to video</string>
+    <string name="pref_camera_quickcapture_default" translatable="false">off</string>
+    <!-- Default scene mode setting. -->
+    <string name="pref_camera_scenemode_default" translatable="false">auto</string>
+    <string name="pref_camera_jpegquality_default" translatable="false">superfine</string>
+    <string name="pref_exposure_default" translatable="false">0</string>
+    <!-- Default flash mode setting. -->
+    <string name="pref_camera_flashmode_default" translatable="false">auto</string>
+    <!-- Default focus mode setting. -->
+    <string name="pref_camera_focusmode_default" translatable="false">auto</string>
+    <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+
+    <!-- gallery -->
+    <string name="loading_video">Loading video\u2026</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+    <!-- shown in the video player view while the video is being loaded, before it starts playing -->
+    <!-- Movie View Resume Playing dialog title -->
+    <string name="resume_playing_title">Resume video</string>
+    <!-- Activity label. This might show up in the activity-picker -->
+    <string name="movie_view_label">Movies</string>
+    <!-- Movie View Start Playing dialog title -->
+    <string name="resume_playing_message">Resume playing from %s ?</string>
+    <!-- Movie View Start Playing button "Resume from bookmark" -->
+    <string name="resume_playing_resume">Resume playing</string>
+
+    <!-- Movie View Start Playing button "Beginning" -->
+    <string name="resume_playing_restart">Start over</string>
+
+    <!-- lib -->
+    <string name="refresh_down_text">下拉可以刷新...</string>
+    <string name="refresh_release_text">松开可以刷新...</string>
+    <string name="refresh_ing_text">正在获取最新数据…</string>
+    <string name="refresh_ed_text">正在获取最新数据…</string>
+    <string name="refresh_error_text">刷新失败</string>
+    <string name="load_up_text">上拉加载更多...</string>
+    <string name="more_text">更多</string>
+    <string name="load_release_text">松开加载更多...</string>
+    <string name="load_ing_text">加载中...</string>
+    <string name="load_ed_text">加载成功</string>
+    <string name="load_error_text">加载失败</string>
+    <string name="titles_load_error">加载失败，点击重新加载</string>
+    <string name="load_click_more_text">点击加载更多</string>
+
+    <!-- osc -->
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中...</string>
+    <string name="pull_to_refresh_tap_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_update">最近更新：</string>
+
+</resources>

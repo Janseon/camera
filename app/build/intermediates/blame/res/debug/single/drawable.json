@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_background.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable\\camera_background.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\camera\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\camera\\app\\src\\main\\res\\drawable\\btn_shutter.xml"
+    }
+]
